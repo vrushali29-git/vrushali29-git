@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate and dedicated developer exploring the exc
 ## 💼 About Me
 
 - 🎓 Final year IT student passionate about building impactful digital solutions  
-- 🧠 Interests: Web Development, MERN Stack, UI/UX, and Cloud Computing  
+- 🧠 Interests: Web Development, MERN Stack
 - 🛠️ Learning: system design, and advanced JavaScript  
 - 🤝 Open to internships, freelance work, and collaborative projects
 
