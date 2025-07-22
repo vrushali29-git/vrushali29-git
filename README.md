@@ -40,8 +40,8 @@ Welcome to my GitHub! I'm a passionate and dedicated developer exploring the exc
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/vrushali-gawai01)
-- 📧 Email:(mailto:vrushalig2004@egmail.com)
+- 💼 LinkedIn: [LinkedIn](www.linkedin.com/in/vrushali-gawai01)
+- 📧 Email:[vrushalig2004@gmail.com](mailto:vrushalig2004@gmail.com)
 - 💬 Portfolio: Coming Soon
 
 ---
