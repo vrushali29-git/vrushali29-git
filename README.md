@@ -35,6 +35,9 @@ Welcome to my GitHub! I'm a passionate and dedicated developer exploring the exc
 ### 🔹 [Personal Finance Manager 💰](https://github.com/vrushali29-git/personal-finance-manager)
 > A MERN stack app to manage expenses, bills, and loans. Includes authentication, reminders, and charts.
 
+### 🔹 [SoulStore Ecommerce Website USing Wordpress](https://github.com/vrushali29-git/personal-finance-manager)
+> An Ecommerce Website using WORDPRESS
+
 
 ---
 
