@@ -22,21 +22,12 @@ Welcome to my GitHub! I'm a passionate and dedicated developer exploring the exc
 
 ---
 
-## 📊 GitHub Stats
-
-![Vrushali's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrushali29-git&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushali29-git&layout=compact&theme=tokyonight)
-
----
 
 ## 🌟 Featured Projects
 
 ### 🔹 [Personal Finance Manager 💰](https://github.com/vrushali29-git/personal-finance-manager)
 > A MERN stack app to manage expenses, bills, and loans. Includes authentication, reminders, and charts.
 
-### 🔹 [SoulStore Ecommerce Website Using Wordpress](https://github.com/vrushali29-git/Ecommerce-site-using-wordpress.git)
-> An Ecommerce Website using WORDPRESS
 
 
 ---
